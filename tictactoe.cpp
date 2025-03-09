@@ -1,6 +1,5 @@
 //Jose Velazquez
 //Tic Tac Toe
-//TIC TAC TOE
 
 #include "tictactoe.h"
 
