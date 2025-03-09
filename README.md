@@ -8,7 +8,7 @@ Before you begin, ensure you have `g++` installed on your system to compile the 
 
 ## Compiling the Program
 
-To compile the Brisca program, open a terminal in the directory containing `tictactoe.cpp` and execute the following command:
+To compile the tic tac toe program, open a terminal in the directory containing `tictactoe.cpp` and execute the following command:
 
 ```bash
 g++ -o tictactoe tictactoe.cpp
