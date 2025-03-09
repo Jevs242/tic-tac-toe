@@ -4,8 +4,12 @@
 #pragma once
 #include <iostream>
 #include <string>
-#include <conio.h>
 #include <ctime>
+#ifdef _WIN32
+#include <windows.h>
+#else
+#include <unistd.h>
+#endif
 
 class tictactoe {
 private:
